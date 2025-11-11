@@ -51,8 +51,7 @@ Follow these steps to set up and run the notebook locally or in Google Colab.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/sanahshrivastav/sexed-generator.git
-cd sexed-generator
+gh repo clone sanahshrivastav/AI-Powered-Sexual-Health-Query-System
 
 ### 2. Create a Virtual Environment
 
