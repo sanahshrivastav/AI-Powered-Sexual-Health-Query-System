@@ -3,7 +3,7 @@
 
 
 
-## 📘 Overview
+## Overview
 
 AI-based system designed to generate **accurate, age-appropriate, and context-aware educational responses** to questions related to **sexual health and education**.  
 
@@ -13,27 +13,27 @@ The system is structured within a Jupyter Notebook (`sexed_ans(3).ipynb`) for re
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
-- 🧬 **Generate** sexual education responses that are informative, respectful, and unbiased.  
-- 🔍 **Ensure safety and ethical compliance** using content filtering and controlled generation.  
-- 🧩 **Demonstrate fine-tuning** and prompt-based conditioning for specific response control.  
-- 🌐 **Promote accessibility** of sex education through AI-driven conversational tools.  
-
----
-
-## ⚙️ Features
-
-- ✅ **Transformer-based text generation**
-- 🧠 **Contextual prompt conditioning** for structured outputs  
-- 🧹 **Toxicity and bias filtering** using moderation layers  
-- 📊 **Data preprocessing and tokenization pipeline**  
-- 💬 **Q&A simulation** for real-world usage  
-- 🌱 **Customizable notebook** for researchers and educators  
+- **Generate** sexual education responses that are informative, respectful, and unbiased.  
+- **Ensure safety and ethical compliance** using content filtering and controlled generation.  
+- **Demonstrate fine-tuning** and prompt-based conditioning for specific response control.  
+- **Promote accessibility** of sex education through AI-driven conversational tools.  
 
 ---
 
-## 🧰 Tech Stack
+## Features
+
+- **Transformer-based text generation**
+- **Contextual prompt conditioning** for structured outputs  
+- **Toxicity and bias filtering** using moderation layers  
+- **Data preprocessing and tokenization pipeline**  
+- **Q&A simulation** for real-world usage  
+- **Customizable notebook** for researchers and educators  
+
+---
+
+## Tech Stack
 
 | Category | Tools / Libraries |
 |-----------|------------------|
@@ -45,11 +45,11 @@ The system is structured within a Jupyter Notebook (`sexed_ans(3).ipynb`) for re
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the notebook locally or in Google Colab.
 
-### 🧩 1. Clone the Repository
+### 1. Clone the Repository
 
 git clone https://github.com/sanahshrivastav/sexed-generator.git
 cd sexed-generator
